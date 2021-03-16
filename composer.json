@@ -32,12 +32,12 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://asset-packagist.org",
+            "url": "https://asset-packagist.org"
+        },
         {
             "type": "vcs",
             "name": "lcobucci/jwt",
             "url": "https://github.com/liasica/jwt"
-        }
         }
     ]    
 }
