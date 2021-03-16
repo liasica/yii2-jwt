@@ -35,7 +35,7 @@
             "url": "https://asset-packagist.org"
         },
         {
-            "type": "vcs",
+            "type": "git",
             "name": "lcobucci/jwt",
             "url": "https://github.com/liasica/jwt"
         }
