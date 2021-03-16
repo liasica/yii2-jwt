@@ -13,7 +13,7 @@
     "license": "BSD-3-Clause",
     "require": {
         "php": ">=7.4.0",
-        "lcobucci/jwt": "3.3-php8",
+        "lcobucci/jwt": "dev-master",
         "yiisoft/yii2": "~2.0.0"
     },
 	"require-dev": {
@@ -35,9 +35,9 @@
             "url": "https://asset-packagist.org"
         },
         {
-            "type": "git",
+            "type": "vcs",
             "name": "lcobucci/jwt",
-            "url": "https://github.com/liasica/jwt"
+            "url": "https://github.com/liasica/lcobucci-jwt3.3-php8"
         }
     ]    
 }
