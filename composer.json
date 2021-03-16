@@ -13,10 +13,10 @@
     "license": "BSD-3-Clause",
     "require": {
         "php": ">=7.4.0",
-        "lcobucci/jwt": "master",
         "yiisoft/yii2": "~2.0.0"
     },
 	"require-dev": {
+        	"lcobucci/jwt": "master",
 		"phpunit/phpunit": "^4.8"
 	},
     "autoload": {
